@@ -1,1 +1,1 @@
-# SDM-Network-species-co-occurrence
+R scripts for the study “Decoupling of Species Co-occurrence and Trophic Structure Under Climate Change”. These scripts were organized and documented to support reproducibility, transparency, and reuse of the analytical workflow, including species distribution modelling, co-occurrence analysis, and trophic network assessment.
